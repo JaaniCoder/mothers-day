@@ -72,7 +72,7 @@ This app uses dynamic routing and URL parameters to generate personalized pages 
 
 **Base URL structure:**
 ```
-https://mothers-day.vercel.app/[Name]
+https://mothers-day-umber.vercel.app/[Name]
 ```
 
 **Available query parameters:**
@@ -85,10 +85,10 @@ https://mothers-day.vercel.app/[Name]
 
 **Example link:**
 ```
-http://localhost:3000/from=Jaani&img1=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1bwd6mRiJIFbrmTfAyaTHF0JOww_oC48t%2Fview%3Fusp%3Dsharing&img2=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1bwd6mRiJIFbrmTfAyaTHF0JOww_oC48t%2Fview%3Fusp%3Dsharing
+http://mothers-day-umber.vercel.app/from=Jaani&img1=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1bwd6mRiJIFbrmTfAyaTHF0JOww_oC48t%2Fview%3Fusp%3Dsharing&img2=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1bwd6mRiJIFbrmTfAyaTHF0JOww_oC48t%2Fview%3Fusp%3Dsharing
 ```
 
-> **📸 Photo tip:** Upload your images to [imgbb.com](https://imgbb.com) (free, no account needed) and paste the **Direct Link**. Google Drive links are not recommended as Drive blocks cross-origin image embedding.
+> **📸 Photo tip:** Upload your images to [imgbb.com](https://imgbb.com) or [drive.com](https://drive.google.com/drive/u/0/home) (free, no account needed) and paste the **Direct Link**.
 
 ---
 
