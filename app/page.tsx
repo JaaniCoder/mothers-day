@@ -52,7 +52,7 @@ export default function Home() {
             transition={{ delay: 0.2, duration: 0.5 }}
             className="inline-flex items-center gap-2 bg-rose-500/10 border border-rose-200 text-rose-600 text-xs font-semibold tracking-widest uppercase px-4 py-1.5 rounded-full mb-4"
           >
-            <Heart size={12} className="fill-rose-500 text-rose-500" /> Mother's Day 2025
+            <Heart size={12} className="fill-rose-500 text-rose-500" /> Mother's Day 2026
           </motion.div>
           <h1 className="font-serif text-4xl md:text-5xl text-slate-800 leading-tight">
             Craft a Surprise<br />
